@@ -1,22 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm <a href="https://diperpiracoca.github.io/Me.io/" target="blank">
+<h1 align="center">Hola 👋, Soy <a href="https://diperpiracoca.github.io/Me.io/" target="blank">
 Didier Piracoca</a></h1>
 <h3 align="center">Desarrollador de aplicaciones multiplataforma </h3>
 
 <br>
 
-## Skills
+## Habilidades
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Lenguajes/Frameworks:
  <img src="https://skillicons.dev/icons?i=java,html,maven,mysql,spring,angular,ts,gradle,css,js,jquery&perline=6">
 
-#### Tools
-<img src="https://skillicons.dev/icons?i=eclipse,androidstudio,firebase,figma,mysql,svg">
+#### herramientas
+<img src="https://skillicons.dev/icons?i=eclipse,androidstudio,firebase,figma,mysql,svg,vscode">
 
 
-## Academic Background:
+## Estudios:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://digital55.com/wp-content/uploads/2022/01/desarrollo_apps_entornos_empresariales.jpg"/>](https://www.educantabria.es/)
 **Ciclo formativo de grado superior de desarrollo de aplicaciones multiplataforma** \
@@ -28,7 +28,7 @@ Skills: `Manejo de base de datos` `Sistemas informaticos`
 
 <br>
 
-## Contact me:
+## Contacta me:
 <div>
 <a href="https://www.instagram.com/diper_2.0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: santy07piracoca@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
