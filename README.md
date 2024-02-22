@@ -13,7 +13,7 @@ Didier Piracoca</a></h1>
  <img src="https://skillicons.dev/icons?i=java,html,maven,mysql,spring,angular,ts,gradle,css,js,jquery&perline=6">
 
 #### herramientas
-<img src="https://skillicons.dev/icons?i=eclipse,androidstudio,firebase,figma,mysql,svg,vscode">
+<img src="https://skillicons.dev/icons?i=eclipse,androidstudio,firebase,figma,svg,vscode">
 
 
 ## Estudios:
